@@ -1,0 +1,16 @@
+.dashboardContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.mainLayout {
+  display: flex;
+  flex: 1;
+}
+
+.mainContent {
+  flex: 1;
+  padding: 2rem;
+  background-color: #fff;
+}
